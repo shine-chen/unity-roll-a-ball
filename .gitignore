@@ -17,7 +17,8 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
-
+# iOS Famework
+*.a
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -28,3 +29,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# =============== #
+# XCode Generated #
+# =============== #
+xcuserdata
+!xcshareddata
